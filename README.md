@@ -1,0 +1,2 @@
+# SingleDataEextracted
+ExcelとVBAで作った重複を含む元データをソートして重複を省くツール
